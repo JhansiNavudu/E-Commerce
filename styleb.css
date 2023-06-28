@@ -1,0 +1,13 @@
+.image{
+    border: 5px inherit;
+    border-radius: 1%;
+}
+.container{
+    margin-top:25px;
+    margin-bottom: 25px;
+    padding: 3px;
+    background-color: rgb(187, 187, 187);
+    border-radius: 10px;
+    word-spacing: 10;
+    border-spacing: 20;
+}
